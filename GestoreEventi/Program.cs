@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using GestoreEventi;
+
+
+Console.Write("Inserisci il nome del programmma EVENTI ");
